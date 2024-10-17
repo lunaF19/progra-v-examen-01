@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|c:\\users\\franj\\source\\repos\\examen01-prograv\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|c:\\users\\franj\\source\\repos\\examen01-prograv\\pages\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|solutionrelative:pages\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|c:\\users\\franj\\source\\repos\\examen01-prograv\\pages\\mensaje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|solutionrelative:pages\\mensaje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|c:\\users\\franj\\source\\repos\\examen01-prograv\\pages\\crearproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|solutionrelative:pages\\crearproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|c:\\users\\franj\\source\\repos\\examen01-prograv\\pages\\mensaje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD9702F-75E1-4B8A-ACA9-A724B259284A}|Examen01-PrograV.csproj|solutionrelative:pages\\mensaje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T02:34:57.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\ListaProductos.aspx",
+              "RelativeDocumentMoniker": "Pages\\ListaProductos.aspx",
+              "ToolTip": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\ListaProductos.aspx",
+              "RelativeToolTip": "Pages\\ListaProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T02:34:25.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mensaje.aspx",
+              "DocumentMoniker": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\Mensaje.aspx",
+              "RelativeDocumentMoniker": "Pages\\Mensaje.aspx",
+              "ToolTip": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\Mensaje.aspx",
+              "RelativeToolTip": "Pages\\Mensaje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T02:33:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\CrearProducto.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\CrearProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\CrearProducto.aspx.cs",
+              "RelativeToolTip": "Pages\\CrearProducto.aspx.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:32:28.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mensaje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\Mensaje.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Mensaje.aspx.cs",
+              "ToolTip": "C:\\Users\\franj\\source\\repos\\Examen01-PrograV\\Pages\\Mensaje.aspx.cs",
+              "RelativeToolTip": "Pages\\Mensaje.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:32:08.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
