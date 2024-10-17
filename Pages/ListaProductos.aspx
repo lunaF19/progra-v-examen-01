@@ -2,7 +2,15 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Lista de Productos</h1>
     <asp:Button ID="btnGoToCreateProduct" runat="server" Text="Crear Producto" OnClick="btnGoToCreateProduct_Click" />
-    <asp:GridView ID="gvProducts" runat="server" AutoGenerateColumns="false" AllowPaging="true" PageSize="3" OnPageIndexChanging="gvProducts_PageIndexChanging" OnRowDataBound="gvProducts_RowDataBound" CssClass="table table-bordered table-hover text-center">
+    <asp:GridView 
+        ID="gvProducts" 
+        runat="server" 
+        AutoGenerateColumns="false" 
+        AllowPaging="true" 
+        PageSize="3" 
+        OnPageIndexChanging="gvProducts_PageIndexChanging" 
+        OnRowDataBound="gvProducts_RowDataBound" 
+        CssClass="table table-bordered table-hover text-left">
         <Columns>
             <%-- 
                 [1pts] Debe de mostrar el id del producto como primera columna 
@@ -16,7 +24,7 @@
                 [1pts] Debe de mostrar el nombre del producto como segunda columna 
                 (de izquierda a  derecha) y el encabezado de dicha columna debe 
                 de mostrar el texto “Producto”. Este dato lo provee el procedimiento almacenado                 que le entrega los datos de la base de datos.            --%>
-            <asp:BoundField  DataField="nombre" HeaderText="Producto"/>
+            <asp:BoundField  DataField="nombre" HeaderText="Producto" />
 
             <%-- 
                 [1pts] Debe de mostrar la fecha de registro como tercera columna 
